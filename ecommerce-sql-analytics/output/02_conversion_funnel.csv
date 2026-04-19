@@ -1,0 +1,9 @@
+category_name,product_count,viewers,add_to_carts,purchasers,lost_buyers,view_to_cart_pct,cart_to_purchase_pct,overall_conversion_pct,lost_buyer_rank,data_quality_flag
+Home & Kitchen,16,500,500,500,0,100.0,100.0,100.0,8,sufficient volume
+Books,30,500,494,498,2,98.8,100.8,99.6,7,sufficient volume
+Electronics,19,498,448,451,47,90.0,100.7,90.6,6,sufficient volume
+Beauty,26,488,339,0,488,69.5,0.0,0.0,4,sufficient volume
+Toys & Games,31,497,354,0,497,71.2,0.0,0.0,1,sufficient volume
+Clothing,23,478,314,0,478,65.7,0.0,0.0,5,sufficient volume
+Sports & Outdoors,29,496,369,0,496,74.4,0.0,0.0,2,sufficient volume
+Grocery,26,491,344,0,491,70.1,0.0,0.0,3,sufficient volume

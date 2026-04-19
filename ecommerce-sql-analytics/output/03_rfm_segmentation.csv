@@ -1,0 +1,501 @@
+user_id,email,country,recency_days,frequency,monetary,r_score,f_score,m_score,rfm_score,customer_segment
+2,jillrhodes@example.net,US,479,70,42335.70,5,5,5,5.00,Gold
+4,jesseguzman@example.net,CA,475,48,27496.73,5,5,5,5.00,Gold
+10,lindsay78@example.org,FR,479,20,24577.53,5,5,5,5.00,Gold
+156,karenhudson@example.net,US,476,15,19726.31,5,5,5,5.00,Gold
+217,cgrimes@example.net,US,474,20,18788.73,5,5,5,5.00,Gold
+16,lynchgeorge@example.net,BR,476,20,17849.19,5,5,5,5.00,Gold
+34,georgetracy@example.org,NL,477,19,17601.10,5,5,5,5.00,Gold
+189,scott74@example.net,ES,475,18,17582.76,5,5,5,5.00,Gold
+80,barnold@example.net,ES,475,16,16891.33,5,5,5,5.00,Gold
+285,cameronhill@example.net,FR,478,18,15806.36,5,5,5,5.00,Gold
+23,julie69@example.com,AU,479,19,15363.15,5,5,5,5.00,Gold
+15,mitchellclark@example.com,US,475,24,15351.08,5,5,5,5.00,Gold
+11,smiller@example.net,US,480,19,15159.79,5,5,5,5.00,Gold
+71,sarahibarra@example.org,AU,480,18,14722.67,5,5,5,5.00,Gold
+66,harveyrobert@example.net,GB,479,17,14345.40,5,5,5,5.00,Gold
+8,susanrogers@example.org,DE,476,20,14271.96,5,5,5,5.00,Gold
+24,jeffrey28@example.com,ES,474,21,14125.72,5,5,5,5.00,Gold
+49,clintonhopkins@example.com,US,475,18,13958.00,5,5,5,5.00,Gold
+106,yleon@example.net,US,478,20,13345.78,5,5,5,5.00,Gold
+161,wfreeman@example.org,NL,474,15,13244.14,5,5,5,5.00,Gold
+311,reeddaniel@example.net,CA,477,15,12586.53,5,5,5,5.00,Gold
+1,johnsonjoshua@example.org,US,485,84,69667.60,4,5,5,4.67,Gold
+28,tasha01@example.net,BR,485,15,23790.86,4,5,5,4.67,Gold
+254,michelleramsey@example.com,FR,485,14,19930.38,4,5,5,4.67,Gold
+418,jonesraymond@example.net,US,478,13,19870.61,5,4,5,4.67,Gold
+421,howens@example.com,US,482,15,19142.76,4,5,5,4.67,Gold
+97,jonathanfletcher@example.org,US,488,15,18125.56,4,5,5,4.67,Gold
+9,wdavis@example.net,US,487,22,16695.01,4,5,5,4.67,Gold
+265,fpena@example.net,FR,488,17,15630.53,4,5,5,4.67,Gold
+293,daviscolin@example.net,US,477,13,15501.37,5,4,5,4.67,Gold
+198,vbailey@example.com,US,475,14,15037.20,5,4,5,4.67,Gold
+371,ihorton@example.net,US,478,13,14768.50,5,4,5,4.67,Gold
+67,sarah35@example.org,US,474,14,14284.50,5,4,5,4.67,Gold
+53,dwhite@example.org,BR,482,16,13928.33,4,5,5,4.67,Gold
+284,fjones@example.com,US,485,15,13799.51,4,5,5,4.67,Gold
+19,lydiatrujillo@example.com,DE,487,15,13544.19,4,5,5,4.67,Gold
+85,gomezanita@example.com,US,488,16,13161.52,4,5,5,4.67,Gold
+47,ambercummings@example.net,US,479,14,12964.74,5,4,5,4.67,Gold
+192,mnavarro@example.com,CA,479,13,12805.33,5,4,5,4.67,Gold
+82,amydavenport@example.net,AU,488,17,12492.76,4,5,5,4.67,Gold
+7,helenpeterson@example.org,US,483,19,12297.03,4,5,5,4.67,Gold
+132,meadowsbrittany@example.net,US,484,18,12222.96,4,5,5,4.67,Gold
+90,dwalker@example.com,US,485,19,11962.45,4,5,5,4.67,Gold
+26,laurahenderson@example.org,US,477,19,11725.82,5,5,4,4.67,Gold
+169,tina34@example.org,GB,478,17,11322.42,5,5,4,4.67,Gold
+119,maryramirez@example.net,BR,477,15,10261.49,5,5,4,4.67,Gold
+12,barbara10@example.net,US,476,22,10010.55,5,5,4,4.67,Gold
+200,zroberts@example.net,US,477,15,9977.43,5,5,4,4.67,Gold
+22,josephwright@example.net,US,476,15,9842.84,5,5,4,4.67,Gold
+260,tblankenship@example.net,GB,478,15,8913.49,5,5,4,4.67,Gold
+25,camposmichelle@example.org,DE,496,22,27999.78,3,5,5,4.33,Silver
+3,garzaanthony@example.org,CA,493,39,25299.37,3,5,5,4.33,Silver
+5,jennifermiles@example.com,US,495,34,20982.90,3,5,5,4.33,Silver
+275,lauren10@example.org,NL,490,19,19917.02,3,5,5,4.33,Silver
+316,ythompson@example.net,US,491,15,19432.10,3,5,5,4.33,Silver
+6,shaneramirez@example.org,US,492,24,18102.63,3,5,5,4.33,Silver
+31,teresa28@example.org,AU,496,17,18025.69,3,5,5,4.33,Silver
+65,kwilson@example.org,US,495,14,17946.00,3,5,5,4.33,Silver
+326,schmidtjames@example.com,US,483,12,16709.00,4,4,5,4.33,Gold
+410,wendymitchell@example.com,US,482,12,16517.79,4,4,5,4.33,Gold
+276,howardkristina@example.net,ES,498,16,16328.31,3,5,5,4.33,Silver
+51,brownjessica@example.org,GB,491,20,15996.70,3,5,5,4.33,Silver
+56,housemelinda@example.org,US,496,14,15326.72,3,5,5,4.33,Silver
+251,alyssa42@example.com,GB,496,16,14846.55,3,5,5,4.33,Silver
+214,michellehill@example.com,GB,476,12,14432.76,5,3,5,4.33,Silver
+103,richard04@example.com,FR,486,12,13682.39,4,4,5,4.33,Gold
+30,amoore@example.net,US,491,16,13501.07,3,5,5,4.33,Silver
+473,susanramirez@example.com,GB,482,14,13379.51,4,4,5,4.33,Gold
+249,jessica14@example.com,CA,486,14,13320.96,4,4,5,4.33,Gold
+21,pfoster@example.com,US,492,29,13279.87,3,5,5,4.33,Silver
+150,alexander67@example.org,US,484,13,12238.59,4,4,5,4.33,Gold
+20,carl95@example.org,FR,491,19,12019.66,3,5,5,4.33,Silver
+91,lori33@example.org,DE,488,14,11881.26,4,4,5,4.33,Gold
+127,wsmith@example.com,BR,483,18,11853.94,4,5,4,4.33,Gold
+279,xwest@example.net,CA,487,17,11386.58,4,5,4,4.33,Gold
+184,halljasmine@example.net,FR,474,12,10062.33,5,4,4,4.33,Gold
+282,stephen00@example.com,GB,475,13,9990.41,5,4,4,4.33,Gold
+77,william40@example.org,US,481,17,9454.11,4,5,4,4.33,Gold
+353,stacey73@example.org,FR,475,13,8849.12,5,4,4,4.33,Gold
+124,perrymark@example.com,US,478,12,8649.94,5,4,4,4.33,Gold
+121,reevesjimmy@example.com,US,484,15,8576.73,4,5,4,4.33,Gold
+75,prestonjulia@example.org,IT,479,13,8198.18,5,4,4,4.33,Gold
+48,esanchez@example.com,GB,479,16,8113.60,5,5,3,4.33,Silver
+340,hayeslisa@example.com,GB,478,16,6984.83,5,5,3,4.33,Silver
+420,martinezlogan@example.org,DE,502,17,20075.94,2,5,5,4.00,At-Risk VIP
+64,larsonemma@example.org,CA,503,17,19453.41,2,5,5,4.00,At-Risk VIP
+100,elizabeth56@example.net,US,490,12,17704.19,3,4,5,4.00,Silver
+13,kendragalloway@example.org,CA,508,18,15735.60,2,5,5,4.00,At-Risk VIP
+257,brenda51@example.net,GB,500,15,15123.08,2,5,5,4.00,At-Risk VIP
+238,nolansteven@example.com,AU,518,16,14590.61,2,5,5,4.00,At-Risk VIP
+324,zwarren@example.com,DE,510,17,14453.79,2,5,5,4.00,At-Risk VIP
+107,donnacampbell@example.net,FR,499,14,13455.67,3,4,5,4.00,Silver
+78,ccalderon@example.org,ES,497,13,12480.17,3,4,5,4.00,Silver
+44,briannasmith@example.net,IT,499,14,12317.38,3,4,5,4.00,Silver
+27,djames@example.net,US,478,9,12197.38,5,2,5,4.00,New High-Value
+95,benjamin96@example.com,DE,482,10,12088.61,4,3,5,4.00,Silver
+341,wagnergerald@example.org,US,487,11,12086.76,4,3,5,4.00,Silver
+174,jack04@example.com,US,502,15,12060.18,2,5,5,4.00,At-Risk VIP
+308,moorekaren@example.org,GB,494,12,11948.54,3,4,5,4.00,Silver
+14,jamesshawn@example.com,FR,500,24,11913.77,2,5,5,4.00,At-Risk VIP
+349,collinsnicholas@example.com,FR,489,13,11778.52,4,4,4,4.00,Gold
+221,floresthomas@example.com,GB,479,11,11775.17,5,3,4,4.00,Silver
+178,kimberlyjames@example.com,IT,494,15,11498.80,3,5,4,4.00,Silver
+274,ramireztracey@example.org,US,480,14,11135.27,4,4,4,4.00,Gold
+408,fitzgeraldvictor@example.com,US,478,12,11016.54,5,3,4,4.00,Silver
+287,bwagner@example.org,IT,496,15,10641.25,3,5,4,4.00,Silver
+471,sue78@example.com,BR,487,12,10525.38,4,4,4,4.00,Gold
+35,natasha43@example.org,US,481,13,10151.81,4,4,4,4.00,Gold
+92,raymondramirez@example.org,IT,474,11,9904.32,5,3,4,4.00,Silver
+99,cindy14@example.net,IT,483,13,9572.39,4,4,4,4.00,Gold
+283,gsimmons@example.com,GB,497,17,9113.70,3,5,4,4.00,Silver
+459,brittney88@example.net,GB,476,10,9030.24,5,3,4,4.00,Silver
+202,cordovarichard@example.net,BR,480,14,8866.96,4,4,4,4.00,Gold
+39,josephbrennan@example.com,FR,474,10,8710.74,5,3,4,4.00,Silver
+32,meagan89@example.org,US,480,14,8254.82,4,4,4,4.00,Gold
+448,booneryan@example.com,US,480,12,8240.00,4,4,4,4.00,Gold
+118,juliawells@example.com,US,474,10,8198.39,5,3,4,4.00,Silver
+29,kayla51@example.com,ES,478,11,8169.74,5,3,4,4.00,Silver
+207,omartinez@example.net,US,488,14,7808.51,4,5,3,4.00,Silver
+383,kellycarlos@example.org,US,477,13,6956.19,5,4,3,4.00,Silver
+391,mullinsjames@example.com,BR,477,13,6801.67,5,4,3,4.00,Silver
+149,amanda51@example.net,NL,475,12,6605.74,5,4,3,4.00,Silver
+146,vargasmaria@example.org,US,474,13,6391.57,5,4,3,4.00,Silver
+133,millerroy@example.com,US,590,17,19302.99,1,5,5,3.67,At-Risk VIP
+212,jsanchez@example.org,US,491,11,16195.57,3,3,5,3.67,Silver
+230,younggabrielle@example.com,GB,515,13,15682.14,2,4,5,3.67,At-Risk VIP
+190,gbender@example.net,ES,525,15,13530.90,1,5,5,3.67,At-Risk VIP
+182,andreamoore@example.com,US,508,12,13502.88,2,4,5,3.67,At-Risk VIP
+436,vmarshall@example.net,US,507,13,12824.94,2,4,5,3.67,At-Risk VIP
+68,randy47@example.com,BR,520,14,12480.08,2,4,5,3.67,At-Risk VIP
+364,angela18@example.org,CA,499,10,12295.57,3,3,5,3.67,Silver
+488,velezchristopher@example.net,US,493,11,12155.22,3,3,5,3.67,Silver
+59,sara74@example.com,US,518,17,11335.84,2,5,4,3.67,At-Risk VIP
+243,andrew64@example.org,AU,488,12,11295.96,4,3,4,3.67,Silver
+304,vjones@example.net,AU,482,11,10953.90,4,3,4,3.67,Silver
+358,tarabishop@example.net,GB,498,12,10757.92,3,4,4,3.67,Silver
+338,colelisa@example.net,DE,508,15,10690.83,2,5,4,3.67,At-Risk VIP
+55,williamsyvette@example.org,CA,491,13,10546.69,3,4,4,3.67,Silver
+162,fbrewer@example.com,NL,476,8,9845.65,5,2,4,3.67,New High-Value
+302,anthony44@example.com,US,492,12,9718.49,3,4,4,3.67,Silver
+115,danderson@example.net,GB,478,9,9542.46,5,2,4,3.67,New High-Value
+399,wwilliams@example.net,GB,479,9,9525.14,5,2,4,3.67,New High-Value
+253,linda71@example.org,GB,507,16,9426.80,2,5,4,3.67,At-Risk VIP
+258,thomasharvey@example.net,GB,480,11,9089.94,4,3,4,3.67,Silver
+185,ojones@example.com,US,498,12,8984.25,3,4,4,3.67,Silver
+148,hoganashlee@example.org,US,486,11,8822.13,4,3,4,3.67,Silver
+454,kari39@example.net,US,493,13,8609.49,3,4,4,3.67,Silver
+147,terrykevin@example.net,US,491,13,8561.33,3,4,4,3.67,Silver
+86,sarayoung@example.org,ES,477,8,8187.16,5,2,4,3.67,New High-Value
+406,khines@example.org,DE,482,13,7848.81,4,4,3,3.67,Silver
+378,kellysmith@example.com,US,497,14,7741.13,3,5,3,3.67,Silver
+57,ntucker@example.com,CA,483,12,7722.13,4,4,3,3.67,Silver
+140,davidcaldwell@example.net,US,477,10,7446.03,5,3,3,3.67,Silver
+415,davidharris@example.org,US,480,12,7387.84,4,4,3,3.67,Silver
+18,gabriellecameron@example.org,US,498,20,7363.44,3,5,3,3.67,Silver
+120,rsims@example.com,BR,483,12,7306.52,4,4,3,3.67,Silver
+62,brian97@example.net,FR,493,19,7305.73,3,5,3,3.67,Silver
+403,ejohnson@example.org,ES,474,10,7303.47,5,3,3,3.67,Silver
+476,ann44@example.org,ES,477,10,7094.44,5,3,3,3.67,Silver
+381,myerstheodore@example.net,GB,474,9,6982.95,5,3,3,3.67,Silver
+444,tjimenez@example.com,US,484,13,6727.09,4,4,3,3.67,Silver
+70,jonesjason@example.com,ES,479,10,6628.25,5,3,3,3.67,Silver
+401,lambertrichard@example.net,US,480,12,6525.24,4,4,3,3.67,Silver
+264,umatthews@example.org,US,476,10,6468.09,5,3,3,3.67,Silver
+333,harrisoncrystal@example.com,GB,493,17,6305.98,3,5,3,3.67,Silver
+250,ithompson@example.net,US,483,16,5986.93,4,5,2,3.67,Bronze
+424,guerraapril@example.com,BR,476,12,5344.67,5,4,2,3.67,Bronze
+339,marcalvarez@example.org,US,476,13,5172.48,5,4,2,3.67,Bronze
+195,hinesgregory@example.net,US,477,12,5143.56,5,4,2,3.67,Bronze
+130,priceelizabeth@example.com,US,483,7,16843.10,4,1,5,3.33,New High-Value
+210,hollanderic@example.net,GB,520,13,15703.25,1,4,5,3.33,At-Risk VIP
+73,cheryl80@example.net,US,496,9,15655.57,3,2,5,3.33,Bronze
+76,juan35@example.org,US,531,13,14585.00,1,4,5,3.33,At-Risk VIP
+315,keith10@example.com,US,716,13,13211.97,1,4,5,3.33,At-Risk VIP
+158,tonykelly@example.com,US,496,9,12187.51,3,2,5,3.33,Bronze
+17,frankgray@example.net,US,512,14,10821.00,2,4,4,3.33,At-Risk VIP
+83,russellwilliams@example.com,CA,515,14,10498.08,2,4,4,3.33,At-Risk VIP
+452,marcia99@example.org,CA,490,10,10254.74,3,3,4,3.33,Silver
+42,samuel87@example.org,AU,503,13,10226.72,2,4,4,3.33,At-Risk VIP
+63,brianromero@example.org,FR,553,16,10126.55,1,5,4,3.33,At-Risk VIP
+407,raymond43@example.org,GB,480,8,9994.80,4,2,4,3.33,New High-Value
+135,wmurphy@example.com,US,490,11,9936.22,3,3,4,3.33,Silver
+306,kchavez@example.com,GB,497,11,9915.89,3,3,4,3.33,Silver
+328,jonathanthompson@example.org,FR,508,13,9747.01,2,4,4,3.33,At-Risk VIP
+385,bradleypayne@example.net,US,519,13,9722.84,2,4,4,3.33,At-Risk VIP
+495,znelson@example.org,ES,506,12,9608.15,2,4,4,3.33,At-Risk VIP
+211,william46@example.com,US,479,6,9384.07,5,1,4,3.33,New High-Value
+175,shortrichard@example.org,DE,506,12,9342.16,2,4,4,3.33,At-Risk VIP
+368,sandersnathaniel@example.com,US,484,9,9321.22,4,2,4,3.33,New High-Value
+40,sarahcampos@example.net,FR,579,16,9011.37,1,5,4,3.33,At-Risk VIP
+102,lbyrd@example.net,US,521,17,8957.27,1,5,4,3.33,At-Risk VIP
+387,zwelch@example.org,DE,485,11,8159.04,4,3,3,3.33,Silver
+321,zroberts@example.org,CA,500,16,8087.89,2,5,3,3.33,At-Risk VIP
+54,ramosmichelle@example.net,GB,489,10,8080.62,4,3,3,3.33,Silver
+245,catherinegomez@example.net,DE,487,11,8040.12,4,3,3,3.33,Silver
+123,patrickhernandez@example.org,IT,476,9,7951.70,5,2,3,3.33,New High-Value
+309,nelsonebony@example.com,CA,494,13,7758.57,3,4,3,3.33,Silver
+299,megan51@example.com,US,493,12,7747.82,3,4,3,3.33,Silver
+122,patricia12@example.org,GB,492,13,7739.41,3,4,3,3.33,Silver
+60,smoore@example.org,GB,498,13,7635.08,3,4,3,3.33,Silver
+94,sheila14@example.org,US,517,14,7579.00,2,5,3,3.33,At-Risk VIP
+470,whitney78@example.com,AU,506,15,7476.81,2,5,3,3.33,At-Risk VIP
+131,marycalhoun@example.net,DE,482,10,7249.02,4,3,3,3.33,Silver
+449,kathryn50@example.com,GB,491,12,7035.78,3,4,3,3.33,Silver
+84,nolanjason@example.org,FR,489,13,6990.06,3,4,3,3.33,Silver
+159,joshua94@example.net,GB,491,14,6954.92,3,4,3,3.33,Silver
+472,erica49@example.com,ES,481,11,6855.49,4,3,3,3.33,Silver
+482,brentstein@example.org,CA,477,9,6806.04,5,2,3,3.33,New High-Value
+244,lozanojulie@example.com,GB,495,12,6707.02,3,4,3,3.33,Silver
+89,kristinrodriguez@example.org,US,493,12,6697.49,3,4,3,3.33,Silver
+460,terickson@example.com,GB,482,11,6693.43,4,3,3,3.33,Silver
+363,moniquewilliams@example.com,US,479,9,6532.93,5,2,3,3.33,New High-Value
+143,stricklandfrank@example.com,DE,511,15,6416.78,2,5,3,3.33,At-Risk VIP
+240,danielle64@example.com,AU,484,10,6410.36,4,3,3,3.33,Silver
+81,rodriguezsierra@example.net,US,480,11,6318.46,4,3,3,3.33,Silver
+41,jenniferross@example.net,US,499,18,6103.32,3,5,2,3.33,Bronze
+186,ronaldstephens@example.net,ES,490,15,5854.57,3,5,2,3.33,Bronze
+87,nicolejohnson@example.net,BR,477,10,5852.39,5,3,2,3.33,Bronze
+134,brentgray@example.org,GB,486,13,5650.82,4,4,2,3.33,Bronze
+180,lynchjody@example.org,DE,486,13,5489.63,4,4,2,3.33,Bronze
+441,sonia96@example.org,ES,475,11,5449.02,5,3,2,3.33,Bronze
+101,angela36@example.net,US,480,10,5193.86,5,3,2,3.33,Bronze
+50,ujenkins@example.org,GB,495,18,5137.52,3,5,2,3.33,Bronze
+33,nathanielmartin@example.net,FR,495,15,5046.71,3,5,2,3.33,Bronze
+242,patrickhoward@example.com,BR,485,12,5035.81,4,4,2,3.33,Bronze
+366,mariahdavis@example.org,DE,474,11,4194.37,5,3,2,3.33,Bronze
+367,bwilkerson@example.com,AU,500,8,13622.17,3,1,5,3.00,Bronze
+298,ericolson@example.org,GB,527,11,13391.85,1,3,5,3.00,Bronze
+218,jreed@example.net,NL,528,13,10863.76,1,4,4,3.00,At-Risk VIP
+281,acostaregina@example.net,CA,515,11,10261.56,2,3,4,3.00,Bronze
+110,gibsonolivia@example.net,FR,490,9,10069.87,3,2,4,3.00,Bronze
+183,enorris@example.com,IT,589,12,10050.06,1,4,4,3.00,At-Risk VIP
+425,fernandodonovan@example.org,AU,503,11,9941.52,2,3,4,3.00,Bronze
+252,scoffey@example.net,DE,491,9,9907.74,3,2,4,3.00,Bronze
+305,davisalyssa@example.com,US,507,11,9523.58,2,3,4,3.00,Bronze
+164,kevinperkins@example.com,CA,524,12,9335.23,1,4,4,3.00,At-Risk VIP
+52,jamesherrera@example.org,US,556,13,9246.94,1,4,4,3.00,At-Risk VIP
+199,hodgemark@example.net,US,520,13,8581.53,1,4,4,3.00,At-Risk VIP
+215,sarah84@example.org,FR,501,11,8558.07,2,3,4,3.00,Bronze
+219,ugibson@example.org,US,497,8,8262.42,3,2,4,3.00,Bronze
+128,acastaneda@example.net,FR,491,9,8246.58,3,2,4,3.00,Bronze
+61,rileyamy@example.net,ES,506,11,8218.73,2,3,4,3.00,Bronze
+93,michael86@example.net,US,512,13,8094.31,2,4,3,3.00,At-Risk VIP
+389,james30@example.com,US,474,7,8033.18,5,1,3,3.00,New High-Value
+427,james84@example.org,GB,502,13,8023.69,2,4,3,3.00,At-Risk VIP
+313,randallgreene@example.org,DE,509,12,7964.00,2,4,3,3.00,At-Risk VIP
+263,paulwatson@example.net,GB,517,13,7946.63,2,4,3,3.00,At-Risk VIP
+173,andrewstaylor@example.com,DE,497,11,7833.78,3,3,3,3.00,Silver
+145,tsanders@example.org,FR,498,10,7303.74,3,3,3,3.00,Silver
+351,lucasrodney@example.com,CA,483,9,6994.22,4,2,3,3.00,New High-Value
+290,maria66@example.net,US,487,8,6899.21,4,2,3,3.00,New High-Value
+213,mlee@example.net,FR,512,12,6440.92,2,4,3,3.00,At-Risk VIP
+237,dlittle@example.com,DE,489,10,6419.85,3,3,3,3.00,Silver
+176,hernandezlisa@example.com,DE,490,11,6278.89,3,3,3,3.00,Silver
+377,chenbailey@example.net,GB,496,10,6192.56,3,3,3,3.00,Silver
+288,farrelldebra@example.net,GB,478,9,6108.45,5,2,2,3.00,New High-Value
+314,kevinclark@example.org,DE,481,11,5657.47,4,3,2,3.00,Bronze
+296,uparrish@example.org,US,478,8,5334.33,5,2,2,3.00,New High-Value
+319,stevenschristian@example.com,ES,484,11,5293.86,4,3,2,3.00,Bronze
+278,vfox@example.org,NL,483,11,5223.22,4,3,2,3.00,Bronze
+111,jennifercruz@example.com,US,487,10,5152.20,4,3,2,3.00,Bronze
+125,abrown@example.com,US,481,10,5142.52,4,3,2,3.00,Bronze
+163,davisjeffrey@example.net,US,496,13,5030.93,3,4,2,3.00,Bronze
+241,james67@example.org,US,475,8,4977.95,5,2,2,3.00,New High-Value
+154,lpetersen@example.com,NL,492,12,4753.38,3,4,2,3.00,Bronze
+346,cody64@example.com,NL,479,9,4746.95,5,2,2,3.00,New High-Value
+43,jeffreymorgan@example.net,US,509,16,4738.08,2,5,2,3.00,At-Risk VIP
+365,christopher24@example.com,FR,475,8,4563.28,5,2,2,3.00,New High-Value
+465,rhernandez@example.org,ES,489,10,4561.79,4,3,2,3.00,Bronze
+112,dylanwatts@example.org,FR,500,12,4426.49,3,4,2,3.00,Bronze
+431,williamsdarlene@example.net,BR,488,10,4282.54,4,3,2,3.00,Bronze
+188,martinkyle@example.net,NL,479,11,3982.85,5,3,1,3.00,Bronze
+500,lopezdonald@example.com,DE,475,10,3878.07,5,3,1,3.00,Bronze
+69,smithchristine@example.net,GB,486,12,3850.56,4,4,1,3.00,Bronze
+451,charles87@example.net,BR,474,10,3764.35,5,3,1,3.00,Bronze
+104,russellcarpenter@example.net,DE,475,10,3205.73,5,3,1,3.00,Bronze
+88,kimberly63@example.com,CA,474,11,2429.69,5,3,1,3.00,Bronze
+165,ronald85@example.com,US,563,9,12527.55,1,2,5,2.67,Churned
+225,jsmith@example.com,FR,504,9,11486.44,2,2,4,2.67,Churned
+491,lfrench@example.net,BR,490,6,10508.50,3,1,4,2.67,Bronze
+222,ymcneil@example.net,GB,586,11,10279.70,1,3,4,2.67,Bronze
+227,cindy61@example.com,DE,504,9,9291.96,2,2,4,2.67,Churned
+404,michael90@example.net,FR,489,8,9200.51,3,1,4,2.67,Bronze
+96,samuel81@example.com,DE,503,9,8392.06,2,2,4,2.67,Churned
+301,lynchdiane@example.net,CA,490,9,7778.52,3,2,3,2.67,Bronze
+336,newmantiffany@example.org,US,490,9,7655.20,3,2,3,2.67,Bronze
+392,glennmartin@example.org,DE,574,12,7378.53,1,4,3,2.67,At-Risk VIP
+280,hayesjeffrey@example.net,GB,489,9,7370.79,3,2,3,2.67,Bronze
+335,xjohnson@example.com,AU,510,11,7261.09,2,3,3,2.67,Bronze
+223,tylerjohnson@example.net,FR,515,10,7223.74,2,3,3,2.67,Bronze
+350,elizabethcalderon@example.net,FR,489,9,7156.52,3,2,3,2.67,Bronze
+262,wendy11@example.org,CA,508,11,7015.08,2,3,3,2.67,Bronze
+193,davissuzanne@example.net,AU,508,11,7000.39,2,3,3,2.67,Bronze
+72,justin78@example.net,DE,481,7,6850.08,4,1,3,2.67,New High-Value
+394,terri77@example.com,NL,543,14,6821.53,1,4,3,2.67,At-Risk VIP
+261,cwilson@example.org,AU,490,8,6804.07,3,2,3,2.67,Bronze
+463,tammy99@example.org,US,484,6,6639.63,4,1,3,2.67,New High-Value
+343,michaelhardin@example.com,US,530,13,6396.27,1,4,3,2.67,At-Risk VIP
+113,zrobinson@example.net,US,512,12,6064.53,2,4,2,2.67,At-Risk VIP
+354,ericphillips@example.org,FR,500,11,5950.73,3,3,2,2.67,Bronze
+224,molly71@example.net,US,476,7,5894.69,5,1,2,2.67,New High-Value
+226,charlesharrington@example.com,FR,490,12,5873.17,3,3,2,2.67,Bronze
+248,parkerscott@example.net,FR,503,12,5778.00,2,4,2,2.67,At-Risk VIP
+382,qzavala@example.net,DE,493,10,5561.77,3,3,2,2.67,Bronze
+361,smurray@example.com,US,475,7,5543.46,5,1,2,2.67,New High-Value
+170,harry08@example.org,US,501,13,5410.82,2,4,2,2.67,At-Risk VIP
+376,fbrown@example.net,DE,480,8,5396.74,4,2,2,2.67,New High-Value
+325,jeffrey21@example.net,AU,480,9,5328.52,4,2,2,2.67,New High-Value
+492,nancy04@example.net,GB,481,8,5253.72,4,2,2,2.67,New High-Value
+320,tberry@example.net,AU,493,11,4974.52,3,3,2,2.67,Bronze
+45,perezrebecca@example.com,ES,516,12,4823.80,2,4,2,2.67,At-Risk VIP
+229,cbrennan@example.net,US,480,7,4695.13,5,1,2,2.67,New High-Value
+355,stanleynancy@example.net,GB,485,9,4614.26,4,2,2,2.67,New High-Value
+295,elizabeth65@example.net,CA,481,9,4589.90,4,2,2,2.67,New High-Value
+201,gibsonleonard@example.com,US,494,11,4562.42,3,3,2,2.67,Bronze
+139,jamessmith@example.org,GB,476,8,3926.11,5,2,1,2.67,New High-Value
+396,amymorris@example.org,FR,486,11,3864.49,4,3,1,2.67,Bronze
+439,floressteven@example.com,US,476,8,3176.01,5,2,1,2.67,New High-Value
+142,catherinestuart@example.net,GB,481,10,3005.55,4,3,1,2.67,Bronze
+37,wcabrera@example.net,US,507,17,2813.17,2,5,1,2.67,At-Risk VIP
+272,caseyhubbard@example.org,GB,490,12,2724.18,3,4,1,2.67,Bronze
+236,tyleraguilar@example.org,GB,483,11,2672.74,4,3,1,2.67,Bronze
+486,edelgado@example.com,US,560,9,10866.21,1,2,4,2.33,Churned
+203,sandovalamy@example.com,US,503,7,10278.43,2,1,4,2.33,Churned
+498,gregorychase@example.com,FR,514,7,8976.67,2,1,4,2.33,Churned
+151,oyu@example.com,BR,547,9,8804.42,1,2,4,2.33,Churned
+322,george97@example.net,GB,506,7,8738.83,2,1,4,2.33,Churned
+393,samuel67@example.com,DE,660,8,8735.79,1,2,4,2.33,Churned
+231,juliehamilton@example.org,DE,602,8,8721.21,1,2,4,2.33,Churned
+194,keyemily@example.com,US,520,8,8554.80,1,2,4,2.33,Churned
+255,christopher60@example.com,DE,519,7,8272.16,2,1,4,2.33,Churned
+423,katrinaanderson@example.net,DE,618,8,8267.03,1,2,4,2.33,Churned
+114,pwilliams@example.org,GB,681,10,7862.54,1,3,3,2.33,Bronze
+292,stephanie71@example.org,US,519,8,7741.71,2,2,3,2.33,Churned
+499,frobertson@example.com,ES,498,7,7617.03,3,1,3,2.33,Bronze
+447,troy74@example.net,US,543,10,7172.73,1,3,3,2.33,Bronze
+323,christopher13@example.com,US,495,7,7074.08,3,1,3,2.33,Bronze
+493,hebertmatthew@example.com,US,603,11,7055.30,1,3,3,2.33,Bronze
+312,trose@example.org,BR,508,9,6641.22,2,2,3,2.33,Churned
+429,brittanycarpenter@example.org,US,548,10,6419.59,1,3,3,2.33,Bronze
+479,reedscott@example.com,US,491,6,6226.34,3,1,3,2.33,Bronze
+259,rose31@example.net,CA,511,9,6172.83,2,2,3,2.33,Churned
+137,ismith@example.org,US,518,8,6147.60,2,2,3,2.33,Churned
+300,lindsaybruce@example.net,US,516,11,5861.49,2,3,2,2.33,Bronze
+380,millsmichael@example.net,US,501,10,5666.09,2,3,2,2.33,Bronze
+108,clarence34@example.org,GB,502,11,5504.50,2,3,2,2.33,Bronze
+372,awest@example.org,DE,493,8,5322.54,3,2,2,2.33,Bronze
+273,lisahall@example.org,US,487,7,5184.63,4,1,2,2.33,New High-Value
+270,ndavis@example.net,FR,512,11,5029.37,2,3,2,2.33,Bronze
+480,ilewis@example.com,FR,516,11,5009.58,2,3,2,2.33,Bronze
+116,stephanie79@example.net,GB,494,9,4961.42,3,2,2,2.33,Bronze
+332,michelle52@example.com,CA,497,9,4925.97,3,2,2,2.33,Bronze
+432,debra96@example.net,US,487,7,4595.23,4,1,2,2.33,New High-Value
+434,timothy64@example.com,ES,503,10,4551.63,2,3,2,2.33,Bronze
+205,nwolf@example.com,US,491,9,4328.45,3,2,2,2.33,Bronze
+374,srodriguez@example.org,ES,511,11,4234.53,2,3,2,2.33,Bronze
+208,jennifercollins@example.org,US,483,9,3969.27,4,2,1,2.33,New High-Value
+46,palmerjoshua@example.com,US,532,15,3950.46,1,5,1,2.33,At-Risk VIP
+155,melissa14@example.com,ES,482,8,3935.63,4,2,1,2.33,New High-Value
+271,williamsmatthew@example.org,GB,486,8,3909.06,4,2,1,2.33,New High-Value
+152,ryangross@example.net,US,481,8,3853.74,4,2,1,2.33,New High-Value
+206,sarakim@example.net,US,481,8,3848.07,4,2,1,2.33,New High-Value
+74,sarah12@example.com,GB,477,7,3842.75,5,1,1,2.33,New High-Value
+197,fwalters@example.org,US,477,7,3745.03,5,1,1,2.33,New High-Value
+141,stevenscott@example.com,US,480,8,3575.28,4,2,1,2.33,New High-Value
+266,rcrosby@example.org,US,475,7,3534.05,5,1,1,2.33,New High-Value
+331,kmaldonado@example.net,DE,504,12,3513.46,2,4,1,2.33,At-Risk VIP
+342,hritter@example.net,US,487,9,3336.58,4,2,1,2.33,New High-Value
+168,jamesrodgers@example.com,ES,491,11,3258.35,3,3,1,2.33,Bronze
+291,edwardslarry@example.com,GB,474,8,3215.73,5,1,1,2.33,New High-Value
+220,ashleyhall@example.com,FR,482,9,3128.19,4,2,1,2.33,New High-Value
+356,carlamoore@example.org,US,486,8,2951.66,4,2,1,2.33,New High-Value
+136,karen64@example.org,US,500,10,2934.09,3,3,1,2.33,Bronze
+317,vincentwhitaker@example.com,AU,474,5,2880.14,5,1,1,2.33,New High-Value
+157,frogers@example.com,AU,481,9,2615.43,4,2,1,2.33,New High-Value
+417,tanner82@example.net,GB,477,7,2479.90,5,1,1,2.33,New High-Value
+484,xgarcia@example.org,BR,481,8,2436.45,4,2,1,2.33,New High-Value
+442,lisapeck@example.net,FR,478,4,2253.52,5,1,1,2.33,New High-Value
+395,laurie61@example.com,DE,476,5,1540.03,5,1,1,2.33,New High-Value
+177,mcknightdavid@example.com,US,793,6,10134.41,1,1,4,2.00,Churned
+209,hdavis@example.com,GB,678,5,9226.49,1,1,4,2.00,Churned
+327,jessica23@example.org,DE,573,6,8464.92,1,1,4,2.00,Churned
+496,francisco74@example.net,ES,530,9,7218.27,1,2,3,2.00,Churned
+450,hudsonjames@example.net,GB,603,8,6928.92,1,2,3,2.00,Churned
+483,briangutierrez@example.net,BR,534,9,6927.58,1,2,3,2.00,Churned
+478,kellyroberts@example.net,US,628,8,6721.04,1,2,3,2.00,Churned
+430,megan90@example.org,GB,516,7,6423.49,2,1,3,2.00,Churned
+433,jimenezcourtney@example.com,US,527,9,6328.44,1,2,3,2.00,Churned
+269,bruce43@example.org,US,529,10,5856.23,1,3,2,2.00,Bronze
+232,wallaceheather@example.org,GB,522,10,5429.45,1,3,2,2.00,Bronze
+468,roberthampton@example.com,US,502,8,5398.21,2,2,2,2.00,Churned
+445,davisphillip@example.com,DE,491,7,5325.18,3,1,2,2.00,Bronze
+412,rachelwallace@example.org,CA,503,9,5200.25,2,2,2,2.00,Churned
+36,nataliearroyo@example.org,US,622,11,5160.55,1,3,2,2.00,Bronze
+345,mccormickdeborah@example.org,DE,507,8,4973.78,2,2,2,2.00,Churned
+457,ghernandez@example.org,DE,503,8,4865.23,2,2,2,2.00,Churned
+414,patricia22@example.com,US,522,11,4718.97,1,3,2,2.00,Bronze
+58,martinaaron@example.com,DE,500,8,4622.56,2,2,2,2.00,Churned
+497,alexisrogers@example.com,BR,502,8,4471.21,2,2,2,2.00,Churned
+38,davidalvarez@example.net,US,713,10,4357.00,1,3,2,2.00,Bronze
+187,rebekahserrano@example.org,BR,533,11,4310.94,1,3,2,2.00,Bronze
+413,elizabeth18@example.net,NL,517,8,4186.22,2,2,2,2.00,Churned
+235,georgemiller@example.com,FR,499,7,4136.08,3,1,2,2.00,Bronze
+428,christina18@example.net,GB,506,8,4135.60,2,2,2,2.00,Churned
+138,jeffrey10@example.org,FR,496,9,4041.64,3,2,1,2.00,Bronze
+458,sarah52@example.com,GB,485,6,3815.52,4,1,1,2.00,New High-Value
+352,coxhenry@example.org,US,493,9,3752.86,3,2,1,2.00,Bronze
+191,mkim@example.org,US,508,10,3457.49,2,3,1,2.00,Bronze
+129,tracynelson@example.com,US,507,10,3407.47,2,3,1,2.00,Bronze
+239,charleslandry@example.net,FR,513,10,3337.04,2,3,1,2.00,Bronze
+422,nataliedeleon@example.net,AU,498,9,3145.76,3,2,1,2.00,Bronze
+228,ofinley@example.net,GB,508,11,2967.71,2,3,1,2.00,Bronze
+233,nguyenbrian@example.com,FR,500,8,2873.70,3,2,1,2.00,Bronze
+216,jessica99@example.net,US,496,9,2761.44,3,2,1,2.00,Bronze
+109,dylanwilliams@example.com,ES,492,9,2711.05,3,2,1,2.00,Bronze
+435,barkereric@example.com,GB,481,7,1918.52,4,1,1,2.00,New High-Value
+234,ryan38@example.com,GB,485,7,1733.53,4,1,1,2.00,New High-Value
+307,jennifer99@example.org,DE,482,6,1660.50,4,1,1,2.00,New High-Value
+386,mariacohen@example.net,US,483,5,1560.62,4,1,1,2.00,New High-Value
+348,kyle62@example.net,GB,522,7,8091.87,1,1,3,1.67,Churned
+344,rschroeder@example.net,FR,635,7,7845.83,1,1,3,1.67,Churned
+289,russellbeasley@example.com,DE,623,6,7429.62,1,1,3,1.67,Churned
+362,mburch@example.net,BR,616,7,7386.45,1,1,3,1.67,Churned
+179,michelle64@example.net,US,630,6,7383.22,1,1,3,1.67,Churned
+98,michaeljones@example.net,US,643,7,7131.41,1,1,3,1.67,Churned
+487,katelynmitchell@example.com,ES,754,8,6941.39,1,1,3,1.67,Churned
+196,lmoon@example.net,ES,590,7,6543.48,1,1,3,1.67,Churned
+400,yhill@example.org,DE,764,6,6219.54,1,1,3,1.67,Churned
+405,erikarush@example.com,CA,500,6,6010.19,2,1,2,1.67,Churned
+475,hannahburns@example.com,US,500,7,5922.22,2,1,2,1.67,Churned
+402,stephaniethomas@example.net,FR,519,7,5643.01,2,1,2,1.67,Churned
+397,donna47@example.net,US,634,8,5464.12,1,2,2,1.67,Churned
+286,oscar98@example.com,FR,622,9,5451.90,1,2,2,1.67,Churned
+171,brandon08@example.com,AU,693,9,5196.83,1,2,2,1.67,Churned
+347,mathewaguilar@example.org,US,513,7,5144.73,2,1,2,1.67,Churned
+390,zachary87@example.com,US,503,8,5058.32,2,1,2,1.67,Churned
+461,richardsonemily@example.com,BR,514,7,5014.43,2,1,2,1.67,Churned
+373,scottmary@example.net,NL,533,9,4436.84,1,2,2,1.67,Churned
+277,alfred40@example.org,US,512,7,4432.70,2,1,2,1.67,Churned
+256,gibsonemily@example.net,DE,532,8,4290.36,1,2,2,1.67,Churned
+268,pollardmichael@example.net,US,508,8,4253.86,2,1,2,1.67,Churned
+181,josephmiller@example.org,GB,543,8,4240.78,1,2,2,1.67,Churned
+438,theresa25@example.net,US,597,10,4064.67,1,3,1,1.67,Bronze
+370,lacey20@example.com,GB,506,9,4021.12,2,2,1,1.67,Churned
+360,mmckee@example.com,FR,536,11,3556.70,1,3,1,1.67,Bronze
+388,baldwinsherry@example.org,US,511,8,3133.65,2,2,1,1.67,Churned
+334,bellcharles@example.com,US,498,6,3083.50,3,1,1,1.67,Bronze
+379,ashleylopez@example.net,US,504,9,3047.89,2,2,1,1.67,Churned
+330,wwebster@example.net,BR,512,9,2649.46,2,2,1,1.67,Churned
+337,jford@example.net,US,500,8,2506.08,2,2,1,1.67,Churned
+204,lopezmichael@example.com,US,636,10,2293.80,1,3,1,1.67,Bronze
+474,shellyhendrix@example.com,US,511,9,2276.93,2,2,1,1.67,Churned
+166,qnelson@example.org,US,502,9,1804.07,2,2,1,1.67,Churned
+398,cjackson@example.com,US,491,4,1730.32,3,1,1,1.67,Bronze
+437,larryhiggins@example.net,AU,496,6,1162.80,3,1,1,1.67,Bronze
+419,xfox@example.com,ES,826,7,5922.84,1,1,2,1.33,Churned
+466,armstrongjackie@example.org,CA,658,7,5815.26,1,1,2,1.33,Churned
+384,ingramjill@example.com,AU,569,8,5622.82,1,1,2,1.33,Churned
+426,stacey84@example.org,US,546,5,5554.60,1,1,2,1.33,Churned
+172,danamullins@example.org,US,830,6,5108.57,1,1,2,1.33,Churned
+411,davidfarrell@example.com,CA,529,8,5095.22,1,1,2,1.33,Churned
+144,lanesarah@example.net,NL,531,6,4984.95,1,1,2,1.33,Churned
+303,adam29@example.net,NL,525,5,4980.27,1,1,2,1.33,Churned
+318,sandersjudy@example.com,US,562,7,4868.73,1,1,2,1.33,Churned
+369,brooksanthony@example.org,US,508,4,3907.12,2,1,1,1.33,Churned
+490,robertmonroe@example.org,GB,510,7,2937.71,2,1,1,1.33,Churned
+294,lisa80@example.net,GB,627,8,2857.03,1,2,1,1.33,Churned
+462,laura09@example.com,GB,605,9,2718.94,1,2,1,1.33,Churned
+481,derrick99@example.org,US,766,9,2527.36,1,2,1,1.33,Churned
+167,griffithleslie@example.net,US,519,7,2378.00,2,1,1,1.33,Churned
+297,caroline51@example.net,US,510,6,2376.17,2,1,1,1.33,Churned
+79,kellie42@example.net,US,512,7,2329.77,2,1,1,1.33,Churned
+455,cporter@example.org,US,509,7,2052.77,2,1,1,1.33,Churned
+329,thompsonkendra@example.com,US,518,6,1972.78,2,1,1,1.33,Churned
+456,jenniferbrock@example.net,GB,524,9,1962.12,1,2,1,1.33,Churned
+246,christinebyrd@example.net,US,522,6,4088.65,1,1,1,1.00,Churned
+453,theresalong@example.com,US,554,5,3930.61,1,1,1,1.00,Churned
+443,james27@example.net,GB,531,7,3364.85,1,1,1,1.00,Churned
+117,jrivas@example.com,GB,661,6,3356.87,1,1,1,1.00,Churned
+489,amandasharp@example.org,US,545,5,3088.42,1,1,1,1.00,Churned
+359,pyoung@example.com,US,582,5,3057.41,1,1,1,1.00,Churned
+375,david36@example.net,US,646,4,2903.42,1,1,1,1.00,Churned
+477,zhuang@example.com,US,540,6,2874.73,1,1,1,1.00,Churned
+416,kristyjohnson@example.net,NL,525,4,2706.97,1,1,1,1.00,Churned
+357,jenniferwilliams@example.com,US,786,5,2641.63,1,1,1,1.00,Churned
+105,steven73@example.net,CA,722,6,2500.19,1,1,1,1.00,Churned
+485,oconnelltiffany@example.org,GB,533,7,2463.03,1,1,1,1.00,Churned
+267,jeff73@example.com,IT,520,5,2307.16,1,1,1,1.00,Churned
+409,greenjorge@example.com,IT,634,6,2284.05,1,1,1,1.00,Churned
+469,thorntonapril@example.net,US,617,6,1966.76,1,1,1,1.00,Churned
+247,courtneyberger@example.net,US,729,7,1730.24,1,1,1,1.00,Churned
+160,blackjames@example.org,AU,620,3,1723.79,1,1,1,1.00,Churned
+464,silvageorge@example.net,GB,613,5,1710.09,1,1,1,1.00,Churned
+153,christina87@example.com,GB,658,6,1674.33,1,1,1,1.00,Churned
+126,gateskathy@example.com,US,646,5,1457.87,1,1,1,1.00,Churned
+310,nperry@example.net,DE,523,4,1417.58,1,1,1,1.00,Churned
+467,alexanderrobert@example.com,US,550,7,1301.68,1,1,1,1.00,Churned
+446,jasongomez@example.org,DE,582,4,814.62,1,1,1,1.00,Churned
+440,gwright@example.org,US,579,4,750.08,1,1,1,1.00,Churned
+494,ismall@example.net,US,590,5,691.21,1,1,1,1.00,Churned

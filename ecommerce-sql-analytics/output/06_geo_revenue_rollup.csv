@@ -1,0 +1,92 @@
+country,category_name,orders,gmv,aov,order_share_pct,gmv_share_in_country_pct,row_type
+US,Toys & Games,683,758477.59,938.71,2.98,7.3,detail
+US,Sports & Outdoors,652,721408.02,963.16,2.84,7.0,detail
+US,Beauty,588,704441.79,1064.11,2.56,6.8,detail
+US,Grocery,584,694067.89,1035.92,2.55,6.7,detail
+US,Books,671,666613.82,852.45,2.93,6.4,detail
+US,Clothing,543,656999.58,1077.05,2.37,6.3,detail
+US,Home & Kitchen,405,518170.98,1174.99,1.77,5.0,detail
+US,Electronics,428,454871.24,959.64,1.87,4.4,detail
+GB,Beauty,228,262855.32,1014.89,0.99,7.7,detail
+GB,Toys & Games,258,239722.86,788.56,1.13,7.0,detail
+GB,Books,216,235707.82,946.62,0.94,6.9,detail
+GB,Sports & Outdoors,245,235424.87,846.85,1.07,6.9,detail
+FR,Sports & Outdoors,168,209067.83,1009.99,0.73,9.1,detail
+GB,Grocery,208,206362.10,889.49,0.91,6.0,detail
+GB,Clothing,182,200476.53,982.73,0.79,5.8,detail
+DE,Toys & Games,153,194134.99,1084.55,0.67,7.8,detail
+DE,Books,156,188150.25,1028.14,0.68,7.5,detail
+DE,Beauty,146,181825.26,1063.31,0.64,7.3,detail
+GB,Home & Kitchen,138,178514.87,1206.18,0.60,5.2,detail
+FR,Books,178,176492.23,832.51,0.78,7.7,detail
+DE,Grocery,132,172400.82,1164.87,0.58,6.9,detail
+FR,Grocery,145,166670.77,974.68,0.63,7.3,detail
+GB,Electronics,158,157383.82,909.73,0.69,4.6,detail
+CA,Books,115,151395.69,1182.78,0.50,8.2,detail
+DE,Sports & Outdoors,132,148050.62,974.02,0.58,5.9,detail
+FR,Beauty,128,146460.55,1017.09,0.56,6.4,detail
+CA,Clothing,124,144392.43,1085.66,0.54,7.8,detail
+FR,Toys & Games,158,141205.85,775.86,0.69,6.2,detail
+DE,Clothing,109,140143.66,1139.38,0.48,5.6,detail
+CA,Beauty,115,136239.72,1040.00,0.50,7.4,detail
+FR,Clothing,109,125818.07,1039.82,0.48,5.5,detail
+CA,Sports & Outdoors,110,119931.66,922.55,0.48,6.5,detail
+DE,Electronics,94,119249.61,1157.76,0.41,4.8,detail
+ES,Toys & Games,111,115663.71,856.77,0.48,8.3,detail
+BR,Books,79,112980.06,1176.88,0.34,8.6,detail
+CA,Toys & Games,127,110659.15,768.47,0.55,6.0,detail
+ES,Grocery,94,108354.28,994.08,0.41,7.8,detail
+DE,Home & Kitchen,83,108000.89,1200.01,0.36,4.3,detail
+AU,Grocery,82,104854.63,1152.25,0.36,8.2,detail
+CA,Grocery,101,103164.13,904.95,0.44,5.6,detail
+ES,Books,95,100125.57,944.58,0.41,7.2,detail
+AU,Beauty,78,99316.47,1115.92,0.34,7.8,detail
+BR,Toys & Games,91,97710.52,888.28,0.40,7.5,detail
+AU,Books,82,97081.10,1043.88,0.36,7.6,detail
+BR,Beauty,89,96440.15,1036.99,0.39,7.4,detail
+ES,Sports & Outdoors,94,96344.29,900.41,0.41,6.9,detail
+FR,Home & Kitchen,93,91164.35,930.25,0.41,4.0,detail
+BR,Sports & Outdoors,77,90777.08,986.71,0.34,6.9,detail
+ES,Clothing,79,90365.69,1004.06,0.34,6.5,detail
+ES,Beauty,78,88568.45,995.15,0.34,6.4,detail
+FR,Electronics,102,88462.01,819.09,0.44,3.9,detail
+CA,Home & Kitchen,66,88346.47,1262.09,0.29,4.8,detail
+AU,Clothing,65,85431.57,1154.48,0.28,6.7,detail
+BR,Grocery,71,80037.89,988.12,0.31,6.1,detail
+NL,Books,61,74870.50,1101.04,0.27,9.0,detail
+AU,Sports & Outdoors,74,73935.57,795.01,0.32,5.8,detail
+AU,Toys & Games,80,70501.02,758.08,0.35,5.5,detail
+BR,Clothing,63,66694.76,1042.11,0.27,5.1,detail
+NL,Grocery,34,66112.05,1469.16,0.15,8.0,detail
+CA,Electronics,64,65941.80,969.73,0.28,3.6,detail
+BR,Home & Kitchen,53,63770.42,1118.78,0.23,4.9,detail
+IT,Grocery,47,63051.44,1167.62,0.20,10.9,detail
+AU,Electronics,62,60681.26,919.41,0.27,4.8,detail
+NL,Clothing,47,59223.59,1138.92,0.20,7.1,detail
+NL,Sports & Outdoors,53,52418.14,888.44,0.23,6.3,detail
+NL,Toys & Games,52,50105.63,863.89,0.23,6.0,detail
+ES,Electronics,58,47426.22,729.63,0.25,3.4,detail
+ES,Home & Kitchen,55,47169.39,842.31,0.24,3.4,detail
+AU,Home & Kitchen,35,46416.29,1254.49,0.15,3.6,detail
+BR,Electronics,45,45784.01,915.68,0.20,3.5,detail
+NL,Electronics,43,45511.07,1034.34,0.19,5.5,detail
+IT,Books,31,38294.50,1094.13,0.14,6.6,detail
+NL,Home & Kitchen,38,37352.65,911.04,0.17,4.5,detail
+IT,Toys & Games,31,36528.83,961.29,0.14,6.3,detail
+IT,Sports & Outdoors,36,36447.39,911.18,0.16,6.3,detail
+IT,Electronics,25,30158.68,1077.10,0.11,5.2,detail
+IT,Home & Kitchen,19,29280.69,1394.32,0.08,5.1,detail
+NL,Beauty,33,28917.61,803.27,0.14,3.5,detail
+IT,Beauty,27,28289.68,884.05,0.12,4.9,detail
+IT,Clothing,18,26314.85,1253.09,0.08,4.6,detail
+US,  (all categories),2286,5175050.91,995.97,9.97,50.0,country_subtotal
+GB,  (all categories),835,1716448.19,929.32,3.64,50.0,country_subtotal
+DE,  (all categories),492,1251956.10,1089.60,2.15,50.0,country_subtotal
+FR,  (all categories),541,1145341.66,921.43,2.36,50.0,country_subtotal
+CA,  (all categories),404,920071.05,1002.26,1.76,50.0,country_subtotal
+ES,  (all categories),328,694017.60,916.80,1.43,50.0,country_subtotal
+BR,  (all categories),286,654194.89,1017.41,1.25,50.0,country_subtotal
+AU,  (all categories),266,638217.91,1003.49,1.16,50.0,country_subtotal
+NL,  (all categories),175,414511.24,1028.56,0.76,50.0,country_subtotal
+IT,  (all categories),113,288366.06,1071.99,0.49,50.0,country_subtotal
+â”€â”€ ALL COUNTRIES â”€â”€,  (all categories),5726,12898175.61,987.53,24.97,100.0,grand_total
