@@ -404,8 +404,8 @@
 <!-- HERO -->
 <div class="hero">
   <div class="hero-eyebrow">// data portfolio</div>
-  <h1>Alex Canals Ordeig<br><span>Applied Scientist & Data Analyst</span></h1>
-  <p class="hero-sub">SQL analytics, machine learning, and production-grade code built to answer real business questions. Two end-to-end projects covering the core patterns used daily in data roles.</p>
+  <h1>Alex Canals Ordeig<br><span>Data Analyst · Data Scientist · Data Engineer</span></h1>
+  <p class="hero-sub">SQL analytics · machine learning · data pipelines. Two end-to-end projects covering cohort analysis, RFM segmentation, funnel metrics, rolling revenue, and collaborative filtering — the patterns that come up daily in analyst, scientist, and engineer roles.</p>
   <div class="hero-links">
     <a class="btn btn-primary" href="https://github.com/alexcanalsordeig/Applied_Scientist_Repo" target="_blank">
       ⬡ View on GitHub
@@ -417,7 +417,7 @@
 <!-- STATS -->
 <div class="stats-bar">
   <div class="stat">
-    <span class="stat-value">2</span>
+    <span class="stat-value">3</span>
     <span class="stat-label">End-to-end projects</span>
   </div>
   <div class="stat">
@@ -643,7 +643,7 @@
         <span class="section-num">PROJECT 02</span>
       </div>
       <div class="section-title">Collaborative Filtering Recommender System</div>
-      <p class="section-desc">Matrix factorization with implicit feedback on MovieLens 100K. Evaluated with industry-standard information retrieval ranking metrics.</p>
+      <p class="section-desc">Production-style recommender system on MovieLens 100K. Modular codebase separating data, model, and evaluation concerns. Treats ratings as implicit feedback — mirroring real-world systems where you have clicks or purchases, not star ratings. Achieves HR@10 of 0.384 on a held-out test set.</p>
       <div class="tags" style="margin-top:14px;">
         <span class="tag accent">ALS Matrix Factorization</span>
         <span class="tag accent">implicit</span>
@@ -657,7 +657,7 @@
   <div class="rec-grid">
     <div class="rec-card">
       <h4>🧠 Problem framing</h4>
-      <p style="font-size:13px;color:#9ca3af;line-height:1.7;">Standard CF treats ratings as explicit feedback. This project treats them as <strong style="color:var(--text);">implicit feedback</strong> — a rating signals interest regardless of score. This better reflects real-world scenarios where you have purchase history or click data, not star ratings.</p>
+      <p style="font-size:13px;color:#9ca3af;line-height:1.7;">Codebase is split into three independent modules — <strong style="color:var(--text);">data_loader</strong>, <strong style="color:var(--text);">model</strong>, and <strong style="color:var(--text);">evaluation</strong> — mirroring how production ML systems separate concerns. Ratings are treated as <strong style="color:var(--text);">implicit feedback</strong>: any interaction signals interest regardless of score, which is the standard assumption when you have clicks or purchases rather than explicit ratings.</p>
     </div>
     <div class="rec-card">
       <h4>⚙️ Algorithm: ALS</h4>
@@ -683,11 +683,57 @@
 </div>
 </div>
 
-<!-- SKILLS -->
+<!-- PROJECT 03 -->
 <div style="border-top:1px solid var(--border);">
 <div class="section">
-  <div class="section-title" style="margin-bottom:8px;">Skills at a glance</div>
-  <p class="section-desc">Across both projects.</p>
+  <div class="section-header">
+    <div>
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
+        <span class="section-num">PROJECT 03</span>
+      </div>
+      <div class="section-title">Signal — Systematic Stock Screener</div>
+      <p class="section-desc">An interactive web app that screens the S&amp;P 500 on momentum and quality factors, builds a portfolio, and backtests it against the market. Built as a personal research tool — a repeatable framework, not a price predictor.</p>
+      <div class="tags" style="margin-top:14px;">
+        <span class="tag accent">Python</span>
+        <span class="tag accent">Streamlit</span>
+        <span class="tag">yfinance</span>
+        <span class="tag">pandas</span>
+        <span class="tag">Plotly</span>
+        <span class="tag">~500 stocks · live data</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="rec-grid">
+    <div class="rec-card">
+      <h4>📊 What it does</h4>
+      <p style="font-size:13px;color:#9ca3af;line-height:1.7;">Pulls live price and fundamental data for the full S&amp;P 500, scores every stock on a <strong style="color:var(--text);">composite factor model</strong>, selects the top N, and runs a buy-and-hold backtest against SPY — all in an interactive dashboard with adjustable signals and weighting.</p>
+    </div>
+    <div class="rec-card">
+      <h4>🔬 Signal framework</h4>
+      <div class="metric-row"><span class="metric-name">12-1 Momentum</span><span class="metric-val">30%</span></div>
+      <div class="metric-row"><span class="metric-name">RSI</span><span class="metric-val">15%</span></div>
+      <div class="metric-row"><span class="metric-name">Return on Equity</span><span class="metric-val">20%</span></div>
+      <div class="metric-row"><span class="metric-name">Revenue Growth</span><span class="metric-val">20%</span></div>
+      <div class="metric-row"><span class="metric-name">P/E Ratio</span><span class="metric-val">15%</span></div>
+    </div>
+    <div class="rec-card">
+      <h4>📈 Backtest vs SPY (2y)</h4>
+      <div class="metric-row"><span class="metric-name">Sharpe Ratio</span><span class="metric-val" style="color:#22c55e">2.50 vs 1.10</span></div>
+      <div class="metric-row"><span class="metric-name">CAGR</span><span class="metric-val" style="color:#22c55e">higher than SPY</span></div>
+      <div class="metric-row"><span class="metric-name">Method</span><span class="metric-val">buy-and-hold</span></div>
+      <div class="metric-row"><span class="metric-name" style="font-size:11px">Past performance ≠ future returns</span><span class="metric-val"></span></div>
+    </div>
+    <div class="rec-card">
+      <h4>🗂️ Engineering</h4>
+      <div class="metric-row"><span class="metric-name">fetcher.py</span><span class="metric-val">cached data layer</span></div>
+      <div class="metric-row"><span class="metric-name">screener.py</span><span class="metric-val">factor scoring</span></div>
+      <div class="metric-row"><span class="metric-name">backtest.py</span><span class="metric-val">performance metrics</span></div>
+      <div class="metric-row"><span class="metric-name">app.py</span><span class="metric-val">Streamlit UI</span></div>
+    </div>
+  </div>
+</div>
+</div>
   <div class="skills-grid">
     <div class="skill-card">
       <h4>SQL</h4>
@@ -728,6 +774,16 @@
         <li>Experiment tracking</li>
       </ul>
     </div>
+    <div class="skill-card">
+      <h4>Quant & Apps</h4>
+      <ul class="skill-list">
+        <li>Factor models</li>
+        <li>Portfolio backtesting</li>
+        <li>Sharpe / drawdown metrics</li>
+        <li>Streamlit dashboards</li>
+        <li>Live data pipelines</li>
+      </ul>
+    </div>
   </div>
 </div>
 </div>
@@ -737,7 +793,7 @@
 <div class="footer">
   <div class="footer-left">
     <h3>Alex Canals Ordeig</h3>
-    <p>Data Analyst · Applied Scientist</p>
+    <p>Data Analyst · Data Scientist · Data Engineer</p>
   </div>
   <a class="btn btn-ghost" href="https://github.com/alexcanalsordeig/Applied_Scientist_Repo" target="_blank">⬡ GitHub Repo</a>
 </div>
