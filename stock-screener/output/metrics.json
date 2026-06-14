@@ -1,0 +1,18 @@
+{
+  "portfolio": {
+    "total_return": 185.99,
+    "cagr": 69.83,
+    "volatility": 27.88,
+    "sharpe_ratio": 2.504,
+    "max_drawdown": -26.52,
+    "calmar_ratio": 2.633
+  },
+  "spy_benchmark": {
+    "total_return": 40.07,
+    "cagr": 18.51,
+    "volatility": 16.87,
+    "sharpe_ratio": 1.097,
+    "max_drawdown": -18.76,
+    "calmar_ratio": 0.987
+  }
+}
