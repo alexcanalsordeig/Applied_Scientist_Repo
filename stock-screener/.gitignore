@@ -12,3 +12,5 @@ Thumbs.db
 .vscode/
 .idea/
 .streamlit/secrets.toml
+
+PROJECT_GUIDE.pdf
