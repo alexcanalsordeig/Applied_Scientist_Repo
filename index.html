@@ -664,11 +664,13 @@
       <p style="font-size:13px;color:#9ca3af;line-height:1.7;">Decomposes R ≈ U × Vᵀ into latent factor matrices, alternating between fixing U and solving for V (each step has a closed-form solution). Confidence weighting: <code style="background:var(--surface2);padding:1px 4px;border-radius:3px;font-size:11px;">c_ui = 1 + α × r_ui</code> + L2 regularisation.</p>
     </div>
     <div class="rec-card">
-      <h4>📐 Evaluation metrics</h4>
-      <div class="metric-row"><span class="metric-name">NDCG@K</span><span class="metric-val">rewards rank position</span></div>
-      <div class="metric-row"><span class="metric-name">MAP</span><span class="metric-val">mean avg precision</span></div>
-      <div class="metric-row"><span class="metric-name">Precision@K</span><span class="metric-val">relevant in top-K</span></div>
-      <div class="metric-row"><span class="metric-name">Recall@K</span><span class="metric-val">relevant items found</span></div>
+      <h4>📐 Results @ K=10</h4>
+      <div class="metric-row"><span class="metric-name">HR@10</span><span class="metric-val" style="color:#22c55e">0.384</span></div>
+      <div class="metric-row"><span class="metric-name">NDCG@10</span><span class="metric-val" style="color:#22c55e">0.082</span></div>
+      <div class="metric-row"><span class="metric-name">Precision@10</span><span class="metric-val" style="color:#22c55e">0.053</span></div>
+      <div class="metric-row"><span class="metric-name">Recall@10</span><span class="metric-val" style="color:#22c55e">0.097</span></div>
+      <div class="metric-row"><span class="metric-name">MAP@10</span><span class="metric-val" style="color:#22c55e">0.039</span></div>
+      <div class="metric-row"><span class="metric-name">MRR</span><span class="metric-val" style="color:#22c55e">0.137</span></div>
     </div>
     <div class="rec-card">
       <h4>🗂️ Code structure</h4>
