@@ -432,6 +432,10 @@
     <span class="stat-value">100k</span>
     <span class="stat-label">ML interactions</span>
   </div>
+  <div class="stat">
+    <span class="stat-value">AWS</span>
+    <span class="stat-label">S3 · Glue · Athena</span>
+  </div>
 </div>
 
 <!-- PROJECT 1 -->
@@ -449,6 +453,9 @@
         <span class="tag">Matplotlib</span>
         <span class="tag">Pandas</span>
         <span class="tag">500 users · 8k orders · 40k events</span>
+        <span class="tag accent">AWS S3</span>
+        <span class="tag accent">AWS Glue</span>
+        <span class="tag accent">Amazon Athena</span>
       </div>
     </div>
   </div>
@@ -632,6 +639,41 @@
     </div>
 
   </div>
+
+  <!-- CLOUD ARCHITECTURE -->
+  <div style="margin-top:56px;padding-top:40px;border-top:1px solid var(--border);">
+    <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
+      <span class="section-num">CLOUD</span>
+    </div>
+    <div class="section-title" style="font-size:19px;">☁️ Cloud Architecture (AWS)</div>
+    <p class="section-desc">Migrated the pipeline from a local PostgreSQL setup to a serverless data lake on AWS — raw CSVs land in S3, a Python transform step models them, AWS Glue catalogues the result, and Amazon Athena runs the same six analyses directly over S3 with no database to manage.</p>
+    <div class="tags" style="margin-top:14px;">
+      <span class="tag accent">Amazon S3</span>
+      <span class="tag accent">AWS Glue</span>
+      <span class="tag accent">Amazon Athena</span>
+      <span class="tag">Python ETL</span>
+      <span class="tag">Serverless · pay-per-query</span>
+    </div>
+
+    <div class="rec-grid" style="margin-top:24px;">
+      <div class="rec-card">
+        <h4>🪣 S3 Data Lake</h4>
+        <p style="font-size:13px;color:#9ca3af;line-height:1.7;">Two buckets — <code style="background:var(--surface2);padding:1px 5px;border-radius:3px;font-size:12px;">raw</code> and <code style="background:var(--surface2);padding:1px 5px;border-radius:3px;font-size:12px;">processed</code> — hold the same CSV exports the local project used, now durable, versioned, and queryable without a running server.</p>
+      </div>
+      <div class="rec-card">
+        <h4>🔁 Serverless Transform</h4>
+        <p style="font-size:13px;color:#9ca3af;line-height:1.7;">A Python job reads raw data from S3, applies the same cleaning and modelling logic as the local pipeline, and writes analytics-ready tables back to S3 — packaged to run on a schedule via Lambda.</p>
+      </div>
+      <div class="rec-card">
+        <h4>📇 Glue Data Catalog</h4>
+        <p style="font-size:13px;color:#9ca3af;line-height:1.7;">A Glue Crawler scans the processed bucket and registers table schemas automatically, so the data is queryable the moment it lands — no manual DDL.</p>
+      </div>
+      <div class="rec-card">
+        <h4>🔎 Athena Queries</h4>
+        <p style="font-size:13px;color:#9ca3af;line-height:1.7;">The same six SQL analyses (cohorts, funnel, RFM, rolling revenue, market basket, geo roll-up) run almost unchanged against S3 via Athena — Presto/Trino SQL is close enough to PostgreSQL that the rewrite was minor.</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- PROJECT 2 -->
@@ -775,6 +817,16 @@
         <li>IR evaluation metrics</li>
         <li>Sparse matrix handling</li>
         <li>Experiment tracking</li>
+      </ul>
+    </div>
+    <div class="skill-card">
+      <h4>Cloud & AWS</h4>
+      <ul class="skill-list">
+        <li>S3 data lakes</li>
+        <li>AWS Glue Crawlers</li>
+        <li>Amazon Athena (Presto SQL)</li>
+        <li>Serverless ETL (Lambda)</li>
+        <li>Cost-aware architecture</li>
       </ul>
     </div>
     <div class="skill-card">
