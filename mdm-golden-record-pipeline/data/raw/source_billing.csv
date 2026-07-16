@@ -1,0 +1,10 @@
+customer_no,legal_name,billing_country,billing_city,headcount,arr_eur,vat_id,invoice_date
+B-5001,Acme Corp.,United States,San Francisco,5200,780000000,US-ACM-99,2025-12-01
+B-5002,Acme Cloud Services Inc,United States,Seattle,450,60000000,US-ACC-12,2025-12-01
+B-5003,Globex Industries GmbH,Germany,Munich,3350,360000000,DE-GLX-44,2025-11-28
+B-5004,Initech LLC,United States,Austin,820,88000000,US-INI-07,2025-11-30
+B-5005,Umbrella Health Group Ltd,United Kingdom,London,12500,540000000,GB-UMB-21,2025-12-02
+B-5006,Stark Manufacturing Co,United States,Chicago,1480,195000000,US-STM-33,2025-11-15
+B-5007,Soylent Foods B.V.,Netherlands,Amsterdam,600,70000000,NL-SOY-88,2025-11-20
+B-5008,Vehement Capital Partners,United States,Boston,310,55000000,US-VEH-05,2025-11-10
+B-5009,Wayne Enterprises,United States,New York,46000,8500000000,US-WAY-01,2025-12-03

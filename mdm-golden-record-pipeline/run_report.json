@@ -1,0 +1,21 @@
+{
+  "run_at": "2026-07-13T21:25:52",
+  "raw_records_ingested": 28,
+  "golden_records": 12,
+  "records_collapsed": 16,
+  "hierarchy_links": 1,
+  "field_completeness_pct": {
+    "company_name": 100,
+    "industry": 100,
+    "country": 100,
+    "city": 92,
+    "employees": 92,
+    "revenue": 92,
+    "vat_id": 75,
+    "email_domain": 100
+  },
+  "outputs": [
+    "data/processed/golden/golden_master.csv",
+    "docs/data_quality_summary.md"
+  ]
+}

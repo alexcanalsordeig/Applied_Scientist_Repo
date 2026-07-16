@@ -1,0 +1,11 @@
+# Core pipeline
+pyspark==3.5.1
+
+# Fuzzy matching (Phase 3 — entity matching)
+rapidfuzz==3.9.0
+
+# Utilities / local inspection
+pandas==2.2.2
+
+# AWS phase (Phase 6) — used later for S3/Glue interaction and local testing
+boto3==1.34.100

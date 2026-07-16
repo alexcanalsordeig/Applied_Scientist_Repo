@@ -1,0 +1,9 @@
+# Copy this file to  terraform.tfvars  and fill in your email.
+# (terraform.tfvars is gitignored so your email never gets committed.)
+
+notification_email = "you@example.com"
+
+# Optional overrides:
+# region             = "eu-west-1"
+# project            = "mdm"
+# glue_extra_modules = "rapidfuzz"   # set to "" if your match.py only uses the standard library

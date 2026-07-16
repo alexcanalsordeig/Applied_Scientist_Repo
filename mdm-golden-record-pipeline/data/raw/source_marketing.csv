@@ -1,0 +1,10 @@
+lead_id,company,sector,country,email_domain,num_attendees,signup_date
+MKT-1001,ACME Corp,Tech,United States,acme.com,4,02/11/2025
+MKT-1002,Acme Cloud Services,Tech,United States,acmecloud.com,2,05/03/2025
+MKT-1003,Globex,Industrial,Germany,globex.de,1,12/01/2025
+MKT-1004,Umbrella Health,Healthcare,United Kingdom,umbrella.co.uk,3,20/11/2025
+MKT-1005,Soylent Foods,Food & Beverage,Netherlands,soylent.nl,5,15/10/2025
+MKT-1006,Pied Piper,Tech,United States,piedpiper.com,2,18/11/2025
+MKT-1007,Wayne Enterprises,Conglomerate,USA,wayne.com,6,30/09/2025
+MKT-1008,Hooli,Tech,United States,hooli.com,8,01/11/2025
+MKT-1009,initech,Finance,United States,initech.com,1,22/08/2025

@@ -1,0 +1,11 @@
+crm_id,account_name,industry,country,city,employees,annual_revenue_usd,primary_contact_email,last_modified
+CRM001,Acme Corporation,Technology,USA,San Francisco,5000,850000000,j.doe@acme.com,2025-11-02
+CRM002,Globex Industries,Manufacturing,Germany,Munich,3200,400000000,info@globex.de,2025-10-15
+CRM003,globex industries ,Manufacturing,DE,München,3200,,m.schmidt@globex.de,2025-09-01
+CRM004,Initech LLC,Financial Services,United States,Austin,800,95000000,admin@initech.com,2025-08-20
+CRM005,Umbrella Health Group,Healthcare,UK,London,12000,,contact@umbrella.co.uk,2025-11-20
+CRM006,Stark Manufacturing,Manufacturing,United States,Chicago,1500,210000000,sales@starkmfg.com,2025-07-11
+CRM007,Stark Industries,Aerospace & Defense,United States,Los Angeles,25000,4000000000,defense@stark.com,2025-11-01
+CRM008,Wayne Enterprises,Conglomerate,United States,New York,45000,9000000000,contact@wayne.com,2025-10-30
+CRM009,Hooli Inc,Technology,United States,Palo Alto,9000,2500000000,pr@hooli.com,2025-11-18
+CRM010,Vehement Capital,Financial Services,United States,Boston,300,60000000,ir@vehement.com,2025-06-05
